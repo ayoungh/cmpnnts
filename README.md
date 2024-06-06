@@ -1,8 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/create-next-app).
+# cmpnnts
+
+Welcome to the `cmpnnts` repository! This repository is a central storage for all reusable components, libraries, and utilities that can be used across multiple projects. It aims to promote code reusability and maintainability.
+
+## Introduction
+
+The `cmpnnts` repository is designed to be a one-stop-shop for all your reusable components. Whether you need UI elements, utility functions, or entire libraries, you can find them here. This repository helps streamline development by providing a centralized place to store and manage these resources.
 
 ## Getting Started
 
-First, run the development server:
+To get started with using the components from this repository, follow these steps:
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/ayoungh/cmpnnts.git
+```
+
+2. **Navigate to the project directory:**
+
+```bash
+cd cmpnnts
+```
+
+3. **Install the necessary dependencies:**
+
+```bash
+npm install
+```
+
+4. **Run the development server:**
 
 ```bash
 npm run dev
@@ -14,20 +40,17 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. **Open your browser:**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+    Open [http://localhost:3000](http://localhost:3000) to see the result.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/create-next-app).
+
 
 ## Deploy on Vercel
 
